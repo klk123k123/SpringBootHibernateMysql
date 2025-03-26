@@ -1,0 +1,6 @@
+2025-03-26T16:41:56.674+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-03-26T16:41:56.677+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2025-03-26T16:41:56.689+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c4ed873
+2025-03-26T16:41:56.690+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2025-03-26T16:41:56.691+05:30  WARN 11192 --- [SpringBootHibernateMysql] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-03-26T16:41:56.691+05:30  WARN 11192 --- [SpringBootHibernateMysql] [restartedMain] org.hibernate.orm.deprecation            : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead

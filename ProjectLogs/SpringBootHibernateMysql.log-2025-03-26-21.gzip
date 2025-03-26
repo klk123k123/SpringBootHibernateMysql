@@ -1,0 +1,5 @@
+2025-03-26T16:42:11.763+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] .e.d.SpringBootHibernateMysqlApplication : No active profile set, falling back to 1 default profile: "default"
+2025-03-26T16:42:11.805+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-26T16:42:11.805+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-26T16:42:12.245+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-03-26T16:42:12.263+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 JPA repository interfaces.

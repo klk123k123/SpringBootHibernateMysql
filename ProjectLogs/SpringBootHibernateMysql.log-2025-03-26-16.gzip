@@ -1,0 +1,6 @@
+2025-03-26T16:41:56.624+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-26T16:41:56.626+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-26T16:41:56.639+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-26T16:41:56.640+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 205 ms
+2025-03-26T16:41:56.663+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-03-26T16:41:56.666+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled

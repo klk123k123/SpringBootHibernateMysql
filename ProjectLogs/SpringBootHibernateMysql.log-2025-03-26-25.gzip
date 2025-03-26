@@ -1,0 +1,5 @@
+2025-03-26T16:42:14.089+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-03-26T16:42:14.209+05:30  WARN 38344 --- [SpringBootHibernateMysql] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-26T16:42:14.448+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-26T16:42:14.480+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-26T16:42:14.486+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] .e.d.SpringBootHibernateMysqlApplication : Started SpringBootHibernateMysqlApplication in 3.059 seconds (process running for 3.622)

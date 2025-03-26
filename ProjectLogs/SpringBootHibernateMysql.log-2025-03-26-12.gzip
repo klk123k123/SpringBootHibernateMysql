@@ -1,0 +1,6 @@
+2025-03-26T16:40:06.959+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-03-26T16:41:08.257+05:30  INFO 11192 --- [SpringBootHibernateMysql] [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-26T16:41:08.257+05:30  INFO 11192 --- [SpringBootHibernateMysql] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-26T16:41:08.258+05:30  INFO 11192 --- [SpringBootHibernateMysql] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-26T16:41:08.270+05:30  WARN 11192 --- [SpringBootHibernateMysql] [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Error: 1054, SQLState: 42S22
+2025-03-26T16:41:08.270+05:30 ERROR 11192 --- [SpringBootHibernateMysql] [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper   : Unknown column 'ee1_0.emp_id' in 'field list'

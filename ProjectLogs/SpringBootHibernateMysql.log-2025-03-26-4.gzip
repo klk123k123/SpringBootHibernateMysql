@@ -1,0 +1,5 @@
+2025-03-26T16:35:59.555+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-03-26T16:35:59.670+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-03-26T16:35:59.815+05:30  WARN 11192 --- [SpringBootHibernateMysql] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-26T16:36:00.085+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-03-26T16:36:00.115+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'

@@ -1,0 +1,6 @@
+2025-03-26T16:41:56.357+05:30  INFO 11192 --- [SpringBootHibernateMysql] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-03-26T16:41:56.362+05:30  INFO 11192 --- [SpringBootHibernateMysql] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-26T16:41:56.367+05:30  INFO 11192 --- [SpringBootHibernateMysql] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-26T16:41:56.369+05:30  INFO 11192 --- [SpringBootHibernateMysql] [Thread-7] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-03-26T16:41:56.370+05:30  INFO 11192 --- [SpringBootHibernateMysql] [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2025-03-26T16:41:56.374+05:30  INFO 11192 --- [SpringBootHibernateMysql] [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.

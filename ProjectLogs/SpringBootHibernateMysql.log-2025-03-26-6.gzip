@@ -1,0 +1,5 @@
+2025-03-26T16:40:06.041+05:30  INFO 11192 --- [SpringBootHibernateMysql] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-26T16:40:06.047+05:30  INFO 11192 --- [SpringBootHibernateMysql] [Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-03-26T16:40:06.050+05:30  INFO 11192 --- [SpringBootHibernateMysql] [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-03-26T16:40:06.059+05:30  INFO 11192 --- [SpringBootHibernateMysql] [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-03-26T16:40:06.122+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] .e.d.SpringBootHibernateMysqlApplication : Starting SpringBootHibernateMysqlApplication using Java 21.0.2 with PID 11192 (C:\Users\laksh\SpringBoot\NewSpringBootHibernateMysql\SpringBootHibernateMysql\target\classes started by laksh in C:\Users\laksh\SpringBoot\NewSpringBootHibernateMysql\SpringBootHibernateMysql)

@@ -1,0 +1,6 @@
+2025-03-26T16:42:12.593+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-26T16:42:12.610+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-26T16:42:12.610+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-03-26T16:42:12.649+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-26T16:42:12.650+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 843 ms
+2025-03-26T16:42:12.766+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]

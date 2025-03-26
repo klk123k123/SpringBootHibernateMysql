@@ -1,0 +1,3 @@
+2025-03-26T16:42:25.014+05:30  INFO 38344 --- [SpringBootHibernateMysql] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-26T16:42:25.016+05:30  INFO 38344 --- [SpringBootHibernateMysql] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-26T16:42:25.018+05:30  INFO 38344 --- [SpringBootHibernateMysql] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms

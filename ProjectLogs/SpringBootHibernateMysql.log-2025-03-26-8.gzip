@@ -1,0 +1,6 @@
+2025-03-26T16:40:06.347+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-26T16:40:06.349+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 222 ms
+2025-03-26T16:40:06.374+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-03-26T16:40:06.376+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-03-26T16:40:06.383+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-03-26T16:40:06.384+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...

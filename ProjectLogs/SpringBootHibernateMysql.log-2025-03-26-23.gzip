@@ -1,0 +1,6 @@
+2025-03-26T16:42:12.822+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.11.Final
+2025-03-26T16:42:12.859+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-03-26T16:42:13.074+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-03-26T16:42:13.098+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-03-26T16:42:13.353+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b3c85a0
+2025-03-26T16:42:13.354+05:30  INFO 38344 --- [SpringBootHibernateMysql] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.

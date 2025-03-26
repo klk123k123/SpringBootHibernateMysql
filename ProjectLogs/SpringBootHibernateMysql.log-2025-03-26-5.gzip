@@ -1,0 +1,6 @@
+2025-03-26T16:36:00.121+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] .e.d.SpringBootHibernateMysqlApplication : Started SpringBootHibernateMysqlApplication in 3.443 seconds (process running for 4.068)
+2025-03-26T16:37:00.806+05:30  INFO 11192 --- [SpringBootHibernateMysql] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-26T16:37:00.807+05:30  INFO 11192 --- [SpringBootHibernateMysql] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-26T16:37:00.810+05:30  INFO 11192 --- [SpringBootHibernateMysql] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-26T16:40:06.032+05:30  INFO 11192 --- [SpringBootHibernateMysql] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-03-26T16:40:06.036+05:30  INFO 11192 --- [SpringBootHibernateMysql] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete

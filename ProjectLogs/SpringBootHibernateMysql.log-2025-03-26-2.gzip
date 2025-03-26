@@ -1,0 +1,6 @@
+2025-03-26T16:35:58.031+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 985 ms
+2025-03-26T16:35:58.170+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-03-26T16:35:58.228+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.11.Final
+2025-03-26T16:35:58.262+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-03-26T16:35:58.496+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-03-26T16:35:58.526+05:30  INFO 11192 --- [SpringBootHibernateMysql] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
